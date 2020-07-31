@@ -1325,88 +1325,29 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-s5RaLsJAYG {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+#custom-html-y {
+  /* Type valid CSS here */
 }
-.cid-s5RaLsJAYG .card {
-  align-self: stretch;
+#custom-html-y div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-s5RaLsJAYG .card-box {
-  height: 100%;
-  background-color: #ffffff;
-  padding: 2rem;
+#custom-html-y p {
+  font-size: 60px;
+  color: #777;
 }
-.cid-s5RaLsJAYG h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+#custom-html-x {
+  /* Type valid CSS here */
 }
-.cid-s5RaLsJAYG p {
-  color: #767676;
-  text-align: left;
+#custom-html-x div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
 }
-.cid-s5RaLsJAYG .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-s5RaLsJAYG .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-s5RaLsJAYG .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-s5R8CJmAAG {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s5R8CJmAAG .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s5R8CJmAAG .formoid {
-  margin: auto;
-}
-.cid-s5R8CJmAAG .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-s5R8CJmAAG .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-s5R8CJmAAG a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-s5R8CJmAAG a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-s5R8CJmAAG .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-s5R8CJmAAG .form-group,
-  .cid-s5R8CJmAAG .input-group-btn,
-  .cid-s5R8CJmAAG .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-s5R8CJmAAG .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
+#custom-html-x p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-s5SsefLCqc {
   padding-top: 30px;
